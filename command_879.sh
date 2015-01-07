@@ -1,0 +1,1 @@
+/home/mreddy/Arjun/runmass/sscript/run.mass_test_upgrade masstestresult_879 /import/customer_data/support /home/mreddy/Arjun/runmass/projects/Buckets/support/New_buckets1/bucket1_1_600 10.35.3.111 > masstestresult_879 2>&1 &

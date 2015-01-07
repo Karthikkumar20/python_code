@@ -1,0 +1,1 @@
+/home/mreddy/Arjun/runmass/sscript/run.mass_test_upgrade masstestresult_843 /import/customer_data/support /home/mreddy/Arjun/runmass/projects/Buckets/support/New_buckets1/bucket_jenkin 10.35.3.75 > masstestresult_843 2>&1 &
